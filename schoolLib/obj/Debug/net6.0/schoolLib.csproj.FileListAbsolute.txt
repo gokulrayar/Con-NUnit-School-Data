@@ -1,0 +1,11 @@
+F:\.Net projects\phase4\schoolLib\schoolLib\bin\Debug\net6.0\schoolLib.deps.json
+F:\.Net projects\phase4\schoolLib\schoolLib\bin\Debug\net6.0\schoolLib.dll
+F:\.Net projects\phase4\schoolLib\schoolLib\bin\Debug\net6.0\schoolLib.pdb
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.AssemblyInfoInputs.cache
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.AssemblyInfo.cs
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.csproj.CoreCompileInputs.cache
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.dll
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\refint\schoolLib.dll
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\schoolLib.pdb
+F:\.Net projects\phase4\schoolLib\schoolLib\obj\Debug\net6.0\ref\schoolLib.dll
